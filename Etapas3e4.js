@@ -1,3 +1,4 @@
+//Bruna Caroliny Custódio da Silva e Leticia Nascimento de Oliveira.
 var x = 27;
 var y = 470;
 var xd = 0;
